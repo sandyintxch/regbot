@@ -1,0 +1,1 @@
+print("RegBot is alive")
